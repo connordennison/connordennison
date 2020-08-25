@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey!
 
-<!--
-**connordennison/connordennison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 I'm Connor, a web developer. I do programming as a hobby and don't do anything commercial.
+My favourite languages:
+- HTML
+- CSS
+- Javascript
+- node.js
+- python3
+- C#
+- Arduino
+I'm currently working on NewTab, an elegant new tab page that adjusts to the time of day.
+I'm also working on a Discord bot called CMFB, you can add it to your Discord Server [here](https://cnnd.gq/cmfb).
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can reach me on Discord at cnnd#1670.
