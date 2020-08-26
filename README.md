@@ -1,6 +1,6 @@
 ### Hey!
 
-👋 I'm Connor, a web developer. I do programming as a hobby and don't do anything commercial.
+👋 I'm Connor. I do programming as a hobby and don't do anything commercial.
 
 My favourite languages:
 - HTML
