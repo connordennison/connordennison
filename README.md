@@ -14,4 +14,4 @@ My favourite languages:
 I'm currently working on NewTab, an elegant new tab page that adjusts to the time of day.
 I'm also working on a Discord bot called CMFB, you can add it to your Discord Server [here](https://cnnd.gq/cmfb).
 
-You can reach me on Discord at cnnd#1670.
+You can reach me on Discord at cnnd#1670 or on Twitter @cnnrde.
