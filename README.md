@@ -1,6 +1,6 @@
-### Hey!
+### 👋
 
-👋 I'm Connor.
+I'm Connor.
 
 My favourite languages:
 - HTML
