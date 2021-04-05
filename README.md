@@ -11,4 +11,4 @@ My favourite languages:
 - C#
 - Arduino
 
-You can reach me on Discord at cnnd#5555 or on Twitter @cnnrde.
+You can reach me on Discord @cnnd#5555 or on Twitter @cnnrde.
