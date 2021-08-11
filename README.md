@@ -1,9 +1,11 @@
 ### 👋
 
-I'm Connor.
+I'm Connor!
 
 I normally spend my time programming in Python or Node.js, or making websites in HTML, CSS and JS.
 I enjoy making projects that are practical, like my url shortener, [shorty](https://shrty.gq).
+
+You can view my public projects [here](https://cnnd.codes)!
 
 My favourite language is [Node.js](https://nodejs.org/), combined with [yarn](https://yarnpkg.com/) for package management.
 
