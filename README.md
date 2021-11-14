@@ -1,6 +1,4 @@
-### 👋
-
-I'm Connor!
+## 👋 I'm Connor!
 
 I normally spend my time programming in Python or Node.js, or making websites in HTML, CSS and JS or React.
 I enjoy making projects that are practical.
