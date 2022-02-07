@@ -2,7 +2,7 @@
 
 I normally spend my time making some obscure webapp with Next.js
 
-My current preferred language is TypeScript (frontend and backend node), combined with [yarn](https://yarnpkg.com/) for package management.
+My current preferred language is TypeScript, combined with [yarn](https://yarnpkg.com/) for package management.
 
 My preferred code editor is [Visual Studio Code](https://code.visualstudio.com/), however I also use [Replit](https://replit.com/@cnnd).
 
